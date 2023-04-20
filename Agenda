@@ -1,0 +1,21 @@
+
+Project : Testing an eCommerce site with Selenium
+
+Industry : E commerce
+
+Problem Statement : How to Successfully run an eCommerce for various product search queries.
+
+*** Agenda of this project ******
+ 
+ 00. configuration webdriver
+ 01. Goto amazon webpage
+ 02. Get Title
+ 03. Find Search
+ 04. put Iphone x and Enter
+ 04. select Ram size
+ 05. goto result
+ 06. 
+ 
+
+
+
